@@ -19,6 +19,7 @@ import ja from './locale/ja';
 import ko from './locale/ko';
 import lv from './locale/lv';
 import ml from './locale/ml';
+import my from './locale/my';
 import nl from './locale/nl';
 import no from './locale/no';
 import pl from './locale/pl';
@@ -60,6 +61,7 @@ export default {
   ja,
   ko,
   ml,
+  my,
   lv,
   nl,
   no,

@@ -21,6 +21,7 @@ import ko from './locale/ko.json';
 import lt from './locale/lt.json';
 import lv from './locale/lv.json';
 import ml from './locale/ml.json';
+import my from './locale/my.json';
 import nl from './locale/nl.json';
 import no from './locale/no.json';
 import pl from './locale/pl.json';
@@ -63,6 +64,7 @@ export default {
   lt,
   lv,
   ml,
+  my,
   nl,
   no,
   pl,

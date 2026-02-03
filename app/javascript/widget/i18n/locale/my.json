@@ -1,0 +1,153 @@
+{
+  "COMPONENTS": {
+    "FILE_BUBBLE": {
+      "DOWNLOAD": "ဒေါင်းလုဒ်လုပ်ရန်",
+      "UPLOADING": "တင်နေသည်..."
+    },
+    "FORM_BUBBLE": {
+      "SUBMIT": "တင်သွင်းရန်"
+    },
+    "MESSAGE_BUBBLE": {
+      "RETRY": "မက်ဆေ့ခ်ျကို ထပ်ပို့ရန်",
+      "ERROR_MESSAGE": "မပို့နိုင်ပါ၊ ထပ်စမ်းကြည့်ပါ"
+    }
+  },
+  "THUMBNAIL": {
+    "AUTHOR": {
+      "NOT_AVAILABLE": "မရရှိနိုင်ပါ"
+    }
+  },
+  "TEAM_AVAILABILITY": {
+    "ONLINE": "ကျွန်ုပ်တို့ အွန်လိုင်းတွင် ရှိနေပါသည်",
+    "OFFLINE": "ကျွန်ုပ်တို့ ယခု မရှိပါ",
+    "BACK_AS_SOON_AS_POSSIBLE": "ကျွန်ုပ်တို့ မကြာမီ ပြန်လာပါမည်"
+  },
+  "REPLY_TIME": {
+    "IN_A_FEW_MINUTES": "ပုံမှန်အားဖြင့် မိနစ်အနည်းငယ်အတွင်း ပြန်ကြားသည်",
+    "IN_A_FEW_HOURS": "ပုံမှန်အားဖြင့် နာရီအနည်းငယ်အတွင်း ပြန်ကြားသည်",
+    "IN_A_DAY": "ပုံမှန်အားဖြင့် တစ်ရက်အတွင်း ပြန်ကြားသည်",
+    "BACK_IN_HOURS": "ကျွန်ုပ်တို့ {n} နာရီအတွင်း ပြန်လာပါမည် | ကျွန်ုပ်တို့ {n} နာရီအတွင်း ပြန်လာပါမည်",
+    "BACK_IN_MINUTES": "ကျွန်ုပ်တို့ {time} မိနစ်အတွင်း ပြန်လာပါမည်",
+    "BACK_AT_TIME": "ကျွန်ုပ်တို့ {time} တွင် ပြန်လာပါမည်",
+    "BACK_ON_DAY": "ကျွန်ုပ်တို့ {day} တွင် ပြန်လာပါမည်",
+    "BACK_TOMORROW": "ကျွန်ုပ်တို့ မနက်ဖြန် ပြန်လာပါမည်",
+    "BACK_IN_SOME_TIME": "ကျွန်ုပ်တို့ မကြာမီ ပြန်လာပါမည်"
+  },
+  "DAY_NAMES": {
+    "SUNDAY": "တနင်္ဂနွေ",
+    "MONDAY": "တနင်္လာ",
+    "TUESDAY": "အင်္ဂါ",
+    "WEDNESDAY": "ဗုဒ္ဓဟူး",
+    "THURSDAY": "ကြာသပတေး",
+    "FRIDAY": "သောကြာ",
+    "SATURDAY": "စနေ"
+  },
+  "START_CONVERSATION": "စကားပြောစတင်ရန်",
+  "END_CONVERSATION": "စကားပြောပြီးဆုံးရန်",
+  "CONTINUE_CONVERSATION": "စကားပြောဆက်လက်ရန်",
+  "YOU": "သင်",
+  "START_NEW_CONVERSATION": "စကားပြောအသစ်စတင်ရန်",
+  "VIEW_UNREAD_MESSAGES": "မဖတ်ရသေးသော မက်ဆေ့ခ်ျများရှိသည်",
+  "UNREAD_VIEW": {
+    "VIEW_MESSAGES_BUTTON": "မက်ဆေ့ခ်ျအသစ်များကြည့်ရန်",
+    "CLOSE_MESSAGES_BUTTON": "ပိတ်ရန်",
+    "COMPANY_FROM": "မှ",
+    "BOT": "ဘော့"
+  },
+  "BUBBLE": {
+    "LABEL": "ကျွန်ုပ်တို့နှင့် ချတ်လုပ်ပါ"
+  },
+  "POWERED_BY": "Chatwoot ဖြင့် ပံ့ပိုးထားသည်",
+  "EMAIL_PLACEHOLDER": "သင့်အီးမေးလ်ကို ထည့်ပါ",
+  "CHAT_PLACEHOLDER": "သင့်မက်ဆေ့ခ်ျကို ရိုက်ထည့်ပါ",
+  "TODAY": "ယနေ့",
+  "YESTERDAY": "မနေ့က",
+  "PRE_CHAT_FORM": {
+    "FIELDS": {
+      "FULL_NAME": {
+        "LABEL": "အမည်အပြည့်အစုံ",
+        "PLACEHOLDER": "သင့်အမည်အပြည့်အစုံကို ထည့်ပါ",
+        "REQUIRED_ERROR": "အမည်အပြည့်အစုံ လိုအပ်ပါသည်"
+      },
+      "EMAIL_ADDRESS": {
+        "LABEL": "အီးမေးလ်လိပ်စာ",
+        "PLACEHOLDER": "သင့်အီးမေးလ်လိပ်စာကို ထည့်ပါ",
+        "REQUIRED_ERROR": "အီးမေးလ်လိပ်စာ လိုအပ်ပါသည်",
+        "VALID_ERROR": "တရားဝင်သော အီးမေးလ်လိပ်စာကို ထည့်ပါ"
+      },
+      "PHONE_NUMBER": {
+        "LABEL": "ဖုန်းနံပါတ်",
+        "PLACEHOLDER": "သင့်ဖုန်းနံပါတ်ကို ထည့်ပါ",
+        "REQUIRED_ERROR": "ဖုန်းနံပါတ် လိုအပ်ပါသည်",
+        "DIAL_CODE_VALID_ERROR": "နိုင်ငံကုဒ်ကို ရွေးချယ်ပါ",
+        "VALID_ERROR": "တရားဝင်သော ဖုန်းနံပါတ်ကို ထည့်ပါ",
+        "DROPDOWN_EMPTY": "ရလဒ်မရှိပါ",
+        "DROPDOWN_SEARCH": "နိုင်ငံရှာရန်"
+      },
+      "MESSAGE": {
+        "LABEL": "မက်ဆေ့ခ်ျ",
+        "PLACEHOLDER": "သင့်မက်ဆေ့ခ်ျကို ထည့်ပါ",
+        "ERROR": "မက်ဆေ့ခ်ျ တိုလွန်းသည်"
+      }
+    },
+    "CAMPAIGN_HEADER": "စကားပြောမစတင်မီ သင့်အမည်နှင့် အီးမေးလ်ကို ပေးပါ",
+    "IS_REQUIRED": "လိုအပ်ပါသည်",
+    "REQUIRED": "လိုအပ်သည်",
+    "REGEX_ERROR": "တရားဝင်သော အချက်အလက်ကို ပေးပါ"
+  },
+  "FILE_SIZE_LIMIT": "ဖိုင်သည် {MAXIMUM_FILE_UPLOAD_SIZE} တွဲချိတ်မှု ကန့်သတ်ချက်ထက် ကျော်လွန်သည်",
+  "CHAT_FORM": {
+    "INVALID": {
+      "FIELD": "တရားမဝင်သော အကွက်"
+    }
+  },
+  "EMOJI": {
+    "PLACEHOLDER": "အီမိုဂျီရှာရန်",
+    "NOT_FOUND": "သင်ရှာသော အီမိုဂျီနှင့် ကိုက်ညီမှုမရှိပါ",
+    "ARIA_LABEL": "အီမိုဂျီရွေးချယ်ကိရိယာ"
+  },
+  "CSAT": {
+    "TITLE": "သင့်စကားပြောကို အဆင့်သတ်မှတ်ပါ",
+    "SUBMITTED_TITLE": "အဆင့်သတ်မှတ်မှုကို တင်သွင်းခြင်းအတွက် ကျေးဇူးတင်ပါသည်",
+    "PLACEHOLDER": "နောက်ထပ် ပြောပြပါ..."
+  },
+  "EMAIL_TRANSCRIPT": {
+    "BUTTON_TEXT": "စကားပြော မှတ်တမ်းကို တောင်းဆိုရန်",
+    "SEND_EMAIL_SUCCESS": "ချတ် မှတ်တမ်းကို အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ",
+    "SEND_EMAIL_ERROR": "အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်၊ ထပ်စမ်းကြည့်ပါ"
+  },
+  "INTEGRATIONS": {
+    "DYTE": {
+      "CLICK_HERE_TO_JOIN": "ပါဝင်ရန် ဤနေရာတွင် နှိပ်ပါ",
+      "LEAVE_THE_ROOM": "ခေါ်ဆိုမှုမှ ထွက်ရန်"
+    }
+  },
+  "PORTAL": {
+    "POPULAR_ARTICLES": "လူကြိုက်များသော ဆောင်းပါးများ",
+    "VIEW_ALL_ARTICLES": "ဆောင်းပါးအားလုံးကြည့်ရန်",
+    "IFRAME_LOAD_ERROR": "ဆောင်းပါးကို ဖွင့်ရာတွင် အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်၊ စာမျက်နှာကို ပြန်လည်စတင်ပြီး ထပ်စမ်းကြည့်ပါ။"
+  },
+  "ATTACHMENTS": {
+    "image": {
+      "CONTENT": "ပုံမက်ဆေ့ခ်ျ"
+    },
+    "audio": {
+      "CONTENT": "အသံမက်ဆေ့ခ်ျ"
+    },
+    "video": {
+      "CONTENT": "ဗီဒီယိုမက်ဆေ့ခ်ျ"
+    },
+    "file": {
+      "CONTENT": "ဖိုင်တွဲချိတ်မှု"
+    },
+    "location": {
+      "CONTENT": "တည်နေရာ"
+    },
+    "fallback": {
+      "CONTENT": "url တစ်ခု မျှဝေထားသည်"
+    }
+  },
+  "FOOTER_REPLY_TO": {
+    "REPLY_TO": "ပြန်ကြားနေသည်:"
+  }
+}
