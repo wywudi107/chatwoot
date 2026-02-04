@@ -38,7 +38,7 @@ class Api::V1::Accounts::CannedResponsesController < Api::V1::Accounts::BaseCont
              .order_by_search(params[:search])
 
     else
-      Current.account.canned_responses
+      Current.account.canned_responses.order(:short_code)
     end
   end
 end
